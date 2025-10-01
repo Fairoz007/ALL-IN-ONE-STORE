@@ -14,9 +14,9 @@ const playfair = Playfair_Display({
 })
 
 export const metadata: Metadata = {
-  title: "v0 App",
-  description: "Created with v0",
-  generator: "v0.app",
+  title: "All in One Store",
+  description: "Your one-stop shop for everything you need. We sell a wide variety of products, from electronics to clothing, all in one place.",
+  keywords: "ecommerce, online shopping, electronics, clothing, all in one, store",
 }
 
 import { Toaster } from "@/components/ui/sonner"
